@@ -21,8 +21,7 @@ author: Kilacindra McCabe
 
 navbar-links:
   About Me: "aboutme"
-  Bio: Hello! This is my GitHub Page. I am currently a student at Boise State in the Computer Science program with an emphasis on Machine Learning. This page will host all of my projects. 
-       Be sure to fork my repository to keep up with all my updates.
+  Bio: "bio"
 
 
 ################
